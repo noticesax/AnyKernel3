@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=RansomewareBreakYourDisk
+kernel.string=Magneto Kernel Rosemary by noticesa@merlinx
 do.devicecheck=1
 do.modules=0
 do.systemless=1
