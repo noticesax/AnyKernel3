@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Magneto Kernel by noticesa@merlinx
+kernel.string=Alchemy Kernel by noticesa@merlinx
 do.devicecheck=0
 do.modules=0
 do.systemless=1
